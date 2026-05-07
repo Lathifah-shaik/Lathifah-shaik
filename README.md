@@ -53,24 +53,6 @@
 
 ---
 
----
-
-### 🔹 IPL Dashboard
-
-Interactive IPL dashboard built using React JS and REST APIs.
-
-#### Key Features
-
-* Team and match information display
-* Dynamic routing using React Router
-* REST API integration
-* Custom 404 page handling
-
-#### Technologies Used
-
-React JS • REST API • CSS • Routing
-
----
 
 ## 🏆 Achievements
 
@@ -90,12 +72,7 @@ React JS • REST API • CSS • Routing
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lathifah-shaik&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lathifah-shaik&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lathifah-shaik&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lathifah-shaik&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
